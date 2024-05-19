@@ -1,8 +1,17 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
 
 # Getting Started
-
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+#  Cloning the Repository and Installing Dependencies
+```bash
+
+git clone <repository-url>
+cd <project-directory>
+ #For ios 
+cd ios && pod install && cd ..
+#For Android
+yarn install
+```
 
 ## Step 1: Start the Metro Server
 
