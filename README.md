@@ -1,8 +1,17 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
 
 # Getting Started
-
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+This project is my first project using TypeScript, and I have never realized a project using TypeScript before. Until this time, I have only realized React Native projects with JavaScript. If I provide information about the case, the data provided from the endpoints felt a bit incomplete. Nevertheless, I used all the endpoints in the PDF. Since the last service in the PDF did not return the answer to the two parameters requested, I only request to this service with an ID. I could not find the description on the detail page in the returned JSON. The steps in the PDF were short and lacked detail. It was a very good experience for me. I hope that if I have mistakes, I can correct them with the help of your experience.  Thank you! 
+Best Regards .
+#  Cloning the Repository and Installing Dependencies
+```bash
+git clone <repository-url>
+cd <project-directory>
+ #For ios 
+cd ios && pod install && cd ..
+#For Android
+yarn install
+```
 
 ## Step 1: Start the Metro Server
 
@@ -42,38 +51,12 @@ npm run ios
 yarn ios
 ```
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+### Some screenshots in case
+<img width="405" alt="Screenshot 2024-05-19 at 14 43 33" src="https://github.com/onuraskin/KaizenCaseCodes/assets/38050448/0e8c1ec9-9c4a-4547-9713-10edeb18ca7d">
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+<img width="405" alt="Screenshot 2024-05-19 at 14 43 39" src="https://github.com/onuraskin/KaizenCaseCodes/assets/38050448/47b89d22-9b74-4a3c-b213-01b837d7de98">
 
-## Step 3: Modifying your App
+<img width="405" alt="Screenshot 2024-05-19 at 14 43 51" src="https://github.com/onuraskin/KaizenCaseCodes/assets/38050448/3771f10a-bf07-417f-8d4b-fe126211b23f">
 
-Now that you have successfully run the app, let's modify it.
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
 
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
