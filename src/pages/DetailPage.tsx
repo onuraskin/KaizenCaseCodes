@@ -52,7 +52,7 @@ const DetailPage: React.FC<DetailPageProps> = ({route}) => {
     const windowWidth = Dimensions.get('window').width;
     return {
       width: windowWidth,
-      height: windowWidth * 0.7, // Önerilen oranı korumak için uygun bir oran kullanabilirsiniz
+      height: windowWidth * 0.7,
     };
   };
 
