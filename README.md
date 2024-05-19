@@ -78,11 +78,11 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
+<img width="405" alt="Screenshot 2024-05-19 at 14 43 33" src="https://github.com/onuraskin/KaizenCaseCodes/assets/38050448/0e8c1ec9-9c4a-4547-9713-10edeb18ca7d">
+
+<img width="405" alt="Screenshot 2024-05-19 at 14 43 39" src="https://github.com/onuraskin/KaizenCaseCodes/assets/38050448/47b89d22-9b74-4a3c-b213-01b837d7de98">
+
+<img width="405" alt="Screenshot 2024-05-19 at 14 43 51" src="https://github.com/onuraskin/KaizenCaseCodes/assets/38050448/3771f10a-bf07-417f-8d4b-fe126211b23f">
 
 
-<img width="405" alt="Screenshot 2024-05-19 at 14 43 51" src="https://github.com/onuraskin/KaizenCaseCodes/assets/38050448/20ac6e3d-9f68-46ba-90f8-3096d3578ac7">
-
-<img width="405" alt="Screenshot 2024-05-19 at 14 43 39" src="https://github.com/onuraskin/KaizenCaseCodes/assets/38050448/7f5dc84e-8f60-450e-95cc-a6108d994bb0">
-
-<img width="428" alt="Screenshot 2024-05-19 at 14 43 15" src="https://github.com/onuraskin/KaizenCaseCodes/assets/38050448/c238fa19-62c8-4922-b489-770e23fba00a">
 
